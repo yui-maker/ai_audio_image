@@ -1,4 +1,4 @@
-# Generate teaching material with webscraping and open_ai
+# Generate images and audio files from texts
 
 Playing with ai image and sound generation.
 
